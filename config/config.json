@@ -1,0 +1,48 @@
+{
+  "development": {
+    "username": "root",
+<<<<<<< HEAD
+    "password": "newpassword",
+    "port": 3306,
+    "database": "blogger",
+    "host": "127.0.0.1",
+=======
+    "password": null,
+    "database": "blogger",
+    "host": "127.0.0.1",
+    "port": 3306,
+>>>>>>> 2795db6a544bbef54d7697c85700bebfbf74672d
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+<<<<<<< HEAD
+    "password": "newpassword",
+    "database": "blogger",
+    "host": "127.0.0.1",
+=======
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "port": 3306,
+>>>>>>> 2795db6a544bbef54d7697c85700bebfbf74672d
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+<<<<<<< HEAD
+    "password": "newpassword",
+    "database": "blogger",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
+=======
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
+>>>>>>> 2795db6a544bbef54d7697c85700bebfbf74672d
